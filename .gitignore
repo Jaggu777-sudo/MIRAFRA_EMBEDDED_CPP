@@ -1,0 +1,20 @@
+# Eclipse / STM32CubeIDE metadata
+.metadata/
+
+# Build outputs
+Debug/
+Release/
+*.elf
+*.bin
+*.hex
+*.map
+*.list
+
+# Object files
+*.o
+*.d
+
+# STM32CubeIDE settings (optional, some prefer to track these)
+.settings/
+.cproject
+.project

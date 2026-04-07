@@ -1,4 +1,0 @@
-../Src/power_led.cpp:4:6:void POWER_LED::set_thresholds(float, float, float)	1
-../Src/power_led.cpp:11:6:void POWER_LED::all_off()	1
-../Src/power_led.cpp:15:6:void POWER_LED::on(uint8_t)	1
-../Src/power_led.cpp:19:6:void POWER_LED::display(float, float)	4

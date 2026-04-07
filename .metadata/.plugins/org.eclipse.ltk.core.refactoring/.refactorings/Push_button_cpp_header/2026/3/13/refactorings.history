@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename resource &apos;Push_button_cpp_header/Inc/stm32f407.h&apos; to &apos;STM32F405xx.h&apos;" description="Rename resource &apos;stm32f407.h&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="Inc/stm32f407.h" name="STM32F405xx.h" stamp="1774597463877" updateReferences="true"/>
-</session>

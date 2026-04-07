@@ -1,5 +1,0 @@
-../Src/main.cpp:14:5:int main()	8	static
-../Src/main.cpp:65:6:void USART1_init()	4	static
-../Src/main.cpp:93:9:uint8_t USART1_read()	4	static
-../Src/main.cpp:99:6:void LED_init()	4	static
-../Src/main.cpp:120:6:void delayMs(int)	24	static

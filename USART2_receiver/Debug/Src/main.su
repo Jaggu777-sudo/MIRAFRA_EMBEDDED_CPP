@@ -1,4 +1,0 @@
-../Src/main.cpp:11:5:int main()	16	static
-../Src/main.cpp:30:6:void USART2_init()	4	static
-../Src/main.cpp:58:9:uint8_t USART2_read()	4	static
-../Src/main.cpp:64:6:void LED_init()	4	static

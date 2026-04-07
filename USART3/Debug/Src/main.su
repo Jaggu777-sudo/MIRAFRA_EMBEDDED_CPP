@@ -1,5 +1,0 @@
-../Src/main.cpp:13:5:int main()	8	static
-../Src/main.cpp:25:6:void USART3_init()	4	static
-../Src/main.cpp:53:6:void USART3_write(uint8_t)	16	static
-../Src/main.cpp:64:9:uint8_t USART3_read()	4	static
-../Src/main.cpp:73:6:void delayMs(int)	24	static

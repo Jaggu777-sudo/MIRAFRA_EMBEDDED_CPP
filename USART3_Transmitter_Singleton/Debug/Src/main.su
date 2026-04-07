@@ -1,8 +1,0 @@
-../Src/main.cpp:6:30:static USART3_Singleton& USART3_Singleton::getInstance()	8	static,ignoring_inline_asm
-../Src/main.cpp:15:10:void USART3_Singleton::run()	24	static
-../Src/main.cpp:57:5:USART3_Singleton::USART3_Singleton()	16	static
-../Src/main.cpp:62:10:void USART3_Singleton::delayMs(int)	24	static
-../Src/main.cpp:67:10:void USART3_Singleton::USART3_init()	16	static
-../Src/main.cpp:93:10:void USART3_Singleton::USART3_write(uint8_t)	16	static
-../Src/main.cpp:99:10:void USART3_Singleton::button_init()	16	static
-../Src/main.cpp:123:5:int main()	8	static

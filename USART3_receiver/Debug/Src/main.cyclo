@@ -1,4 +1,0 @@
-../Src/main.cpp:15:5:int main()	3
-../Src/main.cpp:38:6:void USART3_init()	1
-../Src/main.cpp:70:9:uint8_t USART3_read()	2
-../Src/main.cpp:79:6:void LED_init()	1

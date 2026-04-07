@@ -1,2 +1,0 @@
-../Inc/power_led.h:20:5:POWER_LED::POWER_LED(volatile GPIO_TypeDef*)	2
-../Src/main.cpp:6:5:int main()	3

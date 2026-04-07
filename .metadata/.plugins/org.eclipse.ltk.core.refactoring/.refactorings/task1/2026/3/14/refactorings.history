@@ -1,3 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;task1/Inc/button.h&apos; to &apos;power_led.h&apos;" description="Rename resource &apos;button.h&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="Inc/button.h" name="power_led.h" stamp="1774808801651" updateReferences="true"/>&#x0A;<refactoring comment="Rename resource &apos;task1/Src/button.cpp&apos; to &apos;power_led.cpp&apos;" description="Rename resource &apos;button.cpp&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="Src/button.cpp" name="power_led.cpp" stamp="1774808846991" updateReferences="true"/>
-</session>

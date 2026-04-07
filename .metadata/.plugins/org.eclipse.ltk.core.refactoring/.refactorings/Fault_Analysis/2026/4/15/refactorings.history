@@ -1,3 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;Fault_Analysis/Src/main.c&apos; to &apos;main.cpp&apos;" description="Rename resource &apos;main.c&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="Src/main.c" name="main.cpp" stamp="1775534808089" updateReferences="true"/>&#x0A;<refactoring comment="Rename resource &apos;Fault_Analysis/Inc/STM32F405xx.h&apos; to &apos;STM32F407xx.h&apos;" description="Rename resource &apos;STM32F405xx.h&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="Inc/STM32F405xx.h" name="STM32F407xx.h" stamp="1775537370889" updateReferences="true"/>
-</session>

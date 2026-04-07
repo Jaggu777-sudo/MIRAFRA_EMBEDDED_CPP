@@ -1,6 +1,0 @@
-../Src/button.cpp:3:1:Button::Button(GPIO_TypeDef*, uint8_t)	3
-../Src/button.cpp:14:9:uint8_t Button::read()	1
-../Src/button.cpp:18:1:LED::LED(GPIO_TypeDef*, uint8_t)	3
-../Src/button.cpp:28:6:void LED::on()	1
-../Src/button.cpp:32:6:void LED::off()	1
-../Src/button.cpp:36:6:void LED::toggle()	1

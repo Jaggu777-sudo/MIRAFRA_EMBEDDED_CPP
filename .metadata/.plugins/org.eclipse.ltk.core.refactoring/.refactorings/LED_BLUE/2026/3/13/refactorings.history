@@ -1,3 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;LED_BLUE/Inc/stm32f407.h&apos; to &apos;STM32F407xx.h&apos;" description="Rename resource &apos;stm32f407.h&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="Inc/stm32f407.h" name="STM32F407xx.h" stamp="1774596469015" updateReferences="true"/>&#x0A;<refactoring comment="Rename resource &apos;LED_BLUE/Inc/STM32F407xx.h&apos; to &apos;STM32F405xx.h&apos;" description="Rename resource &apos;STM32F407xx.h&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="Inc/STM32F407xx.h" name="STM32F405xx.h" stamp="1774596638698" updateReferences="true"/>
-</session>

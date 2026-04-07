@@ -1,8 +1,0 @@
-../Src/main.cpp:6:27:static LEDController& LEDController::getInstance()	8	static,ignoring_inline_asm
-../Src/main.cpp:14:10:void LEDController::run()	16	static
-../Src/main.cpp:47:5:LEDController::LEDController()	16	static
-../Src/main.cpp:52:10:void LEDController::USART1_init()	16	static
-../Src/main.cpp:74:10:void LEDController::LED_init()	16	static
-../Src/main.cpp:95:13:uint8_t LEDController::USART1_read()	16	static
-../Src/main.cpp:100:10:void LEDController::delayMs(int)	24	static
-../Src/main.cpp:106:5:int main()	8	static

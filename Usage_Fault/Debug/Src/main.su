@@ -1,7 +1,0 @@
-../Src/main.cpp:12:5:int fun_divide(int, int)	16	static
-../Src/main.cpp:18:5:int main()	24	static
-../Src/main.cpp:42:17:void HardFault_Handler()	4	static,ignoring_inline_asm
-../Src/main.cpp:49:17:void MemManage_Handler()	4	static,ignoring_inline_asm
-../Src/main.cpp:55:17:void BusFault_Handler()	4	static,ignoring_inline_asm
-../Src/main.cpp:62:40:void UsageFault_Handler()	0	static,ignoring_inline_asm
-../Src/main.cpp:71:17:void UsageFault_Handler_c(uint32_t*)	24	static,ignoring_inline_asm
